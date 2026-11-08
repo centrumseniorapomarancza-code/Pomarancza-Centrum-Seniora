@@ -1,0 +1,11 @@
+.idea/
+*.iml
+.vscode/
+out/
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+node_modules/
+*.log
